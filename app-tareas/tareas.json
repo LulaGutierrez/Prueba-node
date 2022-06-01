@@ -1,0 +1,17 @@
+[
+    { 
+        "titulo": "Hacer la comida",
+        "estado": "Terminada"
+    },
+
+    {
+        "titulo": "Proyecto playground",
+        "estado": "En progreso"
+    },
+
+    {
+        "titulo": "Tomar mates",
+        "estado": "Pendiente"
+    }
+] 
+ 
